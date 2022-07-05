@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MARSDK_GAMERESOURCE_Tests' do
+  pod 'MARSDK_GAMERESOURCE', :path => '../'
+  
+  
+end
